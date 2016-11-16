@@ -15,3 +15,5 @@ Sample repo for a blog post on testing react components with enzyme
 
 https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha
 https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react
+
+https://github.com/airbnb/enzyme/blob/master/docs/api/mount.md
